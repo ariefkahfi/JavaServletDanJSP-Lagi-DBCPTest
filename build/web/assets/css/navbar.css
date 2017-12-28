@@ -1,0 +1,23 @@
+nav{
+    background-color: #495057;
+    box-shadow: 3px 4px 4px rgba(0,0,0,0.3);
+}
+
+.nav-title{
+    color : white;
+    margin : 0;
+    display: inline-block;
+    padding : 5px;
+}
+
+#right-nav-item-container{
+    float : right;
+    padding : 9px 9px;
+}
+.right-nav-item-a{
+    margin: 0 5px 0 5px ;
+    cursor: pointer;
+    color : white;
+    font-weight: bold;
+    text-decoration: none;
+}

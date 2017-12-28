@@ -1,0 +1,39 @@
+#student-form-container{
+    box-shadow: 2px 2px 3px rgba(0,0,0,0.3);
+    margin : 5px;
+    background-color : #495057;
+    color : white;
+}
+
+#student-form-container-title{
+    margin : 0;
+    padding : 5px;
+    /*color : white;*/
+    background-color :#03A9F4;
+}
+
+#student-container{
+    
+}
+
+.student-container-inner{
+    background-color: #495057;
+    margin : 5px;
+    border-radius:  3px;
+}
+.student-container-inner-content-container{
+    padding : 5px;
+    
+}
+.student-container-inner-a{
+    color : white;
+    text-decoration: none;
+}
+.student-container-inner-title{
+    margin : 0;
+    color : white;
+    padding : 5px;
+    background-color : #03A9F4;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}

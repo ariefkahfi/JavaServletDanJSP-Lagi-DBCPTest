@@ -1,0 +1,10 @@
+#student-courses-container{
+    background-color : #495057;
+    margin : 5px;
+}
+#student-courses-container-title{
+    margin :0;
+    color : white;
+    padding : 5px;
+    background-color:  #03A9F4;
+}

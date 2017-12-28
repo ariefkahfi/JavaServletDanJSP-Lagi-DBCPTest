@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/arief/NetBeansProjects/BelajarJavaServletDanJSP-Lagi-CommonDBCPTest2/src/java/com/arief/listeners/MyServletContextListener.java</file>
+            <file>file:/home/arief/NetBeansProjects/BelajarJavaServletDanJSP-Lagi-CommonDBCPTest2/web/WEB-INF/views/forms/student-courses.jsp</file>
+            <file>file:/home/arief/NetBeansProjects/BelajarJavaServletDanJSP-Lagi-CommonDBCPTest2/src/java/com/arief/controllers/FormController.java</file>
+            <file>file:/home/arief/NetBeansProjects/BelajarJavaServletDanJSP-Lagi-CommonDBCPTest2/web/assets/js/forms/student-courses.js</file>
+            <file>file:/home/arief/NetBeansProjects/BelajarJavaServletDanJSP-Lagi-CommonDBCPTest2/src/java/com/arief/models/databases/dao/impl/StudentCoursesDAOImpl.java</file>
+        </group>
+    </open-files>
+</project-private>

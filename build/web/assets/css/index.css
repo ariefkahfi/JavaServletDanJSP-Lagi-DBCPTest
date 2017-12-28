@@ -1,0 +1,44 @@
+body{
+    margin : 0;
+    font-family: 'Raleway', sans-serif; 
+}
+
+
+.container-title{
+    margin : 0;
+    padding : 5px;
+    background-color: #03A9F4;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.container{
+    background-color: #495057;
+    color : white;
+    padding : 5px;
+    margin : 2px;
+}
+.container-r{
+    background-color: #495057;
+    color : white;
+    margin : 2px;
+    border-radius: 3px;
+}
+.inner-container{
+    padding : 5px;
+}
+.inner-container-a{
+    text-decoration: none;
+    color : white;
+    font-weight: bold;
+}
+.right-container{
+    margin : 6px;
+    padding : 5px;
+    overflow: hidden;
+}
+
+
+*{
+    box-sizing: border-box;
+}

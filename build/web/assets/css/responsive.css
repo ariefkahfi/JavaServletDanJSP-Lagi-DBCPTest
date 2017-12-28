@@ -1,0 +1,38 @@
+
+@media screen and (max-width : 968px){
+/*    body{
+        background-color: dodgerblue;
+    }*/
+}
+
+@media screen and (max-width : 768px){
+/*    body{
+        background-color: crimson;
+    }*/
+    .left-content-container{
+        float: none;
+        width: auto;
+    }
+}
+
+@media screen and (max-width : 648px){
+    body{
+        background-color: yellowgreen;
+    }
+    .nav-title{
+        display: block;
+    }
+    #right-nav-item-container{
+        float: none;
+    }
+    .right-nav-item-a{
+        background-color: #ADB5BD;
+        display: block;
+        margin : 5px;
+        padding : 5px;
+    }
+}
+
+@media screen and (max-width : 500px){
+    
+}

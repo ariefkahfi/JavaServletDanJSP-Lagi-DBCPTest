@@ -1,0 +1,14 @@
+#student-list-container{
+    margin : 5px;
+    background-color: #495057;
+}
+#student-list-container-inner{
+    padding : 10px;
+}
+#student-list-container-title{
+    margin :0;
+    padding : 5px;
+    background-color :#03A9F4;
+    color : white;
+}
+

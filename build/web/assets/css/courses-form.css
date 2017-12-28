@@ -1,0 +1,13 @@
+#courses-form-container{
+    background-color: #495057;
+    margin : 5px; 
+}
+#courses-form-container-title{
+    margin : 0;
+    padding : 5px;
+    background-color : #03A9F4;
+    color : white;
+}
+.courses-form-container-inner{
+    padding : 5px;
+}

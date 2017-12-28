@@ -1,0 +1,51 @@
+.form-wrapper{
+    padding : 5px;
+}
+.form-row{
+    margin : 5px;
+}
+.form-input-radio{
+    
+}
+.form-input-radio-container{
+    float :left;
+}
+.form-input-radio-wrapper{
+    
+}
+.form-input-text{
+    float : left;
+}
+.form-label{
+    float : left;
+    color : white;
+    width : 158px;
+    padding-top : 5px;
+}
+.form-button-blue{
+    background-color: #03A9F4;
+    color : white;
+    padding :8px;
+    cursor: pointer;
+    border : 1px solid rgba(0,0,0,0.3);  
+    border-radius : 3px; 
+}
+
+@media screen and (max-width : 500px){
+    .form-label{
+        float : none;
+        display: block;
+        width : 100%;
+    }
+    .form-input-text{
+        float :none;
+        width : 100%;
+        display: block;
+    }
+    .form-button-blue{
+        width: 100%;
+    }
+    .form-row{
+        margin : 10px auto 10px auto;
+    }
+}
